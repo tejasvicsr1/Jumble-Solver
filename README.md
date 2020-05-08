@@ -19,7 +19,7 @@ To install PyEnchant use the command `pip3 install pyEnchant`
 
 Change the directory using the command `cd "Jumble Solver"`
 
-Run the file using the comman `python3 main.py`
+Run the file using the command `python3 main.py`
 
 
 ## License
